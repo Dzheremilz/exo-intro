@@ -15,9 +15,9 @@ for (let counter = 0; counter < 8; counter++) {
 }
 
 // with repeat
-let x = 17
-let char2 = '*'
-let space2 = ' '
-for (let i = 1; i <= x; i++) {
+let x = 17                                                // taille de la pyramid
+let char2 = '*'                                           // choix du caractere
+let space2 = ' '                                          // affichage de l'espace
+for (let i = 1; i <= x; i++) {                            // boucle avec affichage via repeat, caractere espace caractere
   console.log(char2.repeat(i) + space2.repeat((x * 2) - (2 * i)) + char2.repeat(i))
 }
