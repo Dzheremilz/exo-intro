@@ -1,4 +1,4 @@
-man : manuel du systeme
+man : manuel du systeme !
 option -h ou --help
 !! : relance la dernière commande
 
