@@ -17,6 +17,7 @@ rm : remove, supprime fichier et répertoire
 mv : move, déplacer ou renommer fichier et répertoire 
 cp : copy, copie fichier et répertoire
 apt : Advanced Packaging Tool, gestion de paquets, recherche et installation
+whoami : qui suis je
 history : historique des commandes
 
 
