@@ -13,3 +13,11 @@ for (let counter = 0; counter < 8; counter++) {
   o = o - 2
   console.log(pyramid)                                    // affiche la chaine complete
 }
+
+// with repeat
+let x = 17
+let char2 = '*'
+let space2 = ' '
+for (let i = 1; i <= x; i++) {
+  console.log(char2.repeat(i) + space2.repeat((x * 2) - (2 * i)) + char2.repeat(i))
+}
