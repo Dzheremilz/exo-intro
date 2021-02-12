@@ -9,4 +9,4 @@ const introduce = (vorname = 'Sofiane', alter = '39', stadt = 'Paris') => {
   return `Hello, my name is ${vorname} and i am ${alter} years old. I live in ${stadt}.`
 }
 console.log(introduce())
-console.log(introduce('Jérémie', '29'))
+console.log(introduce('Louis', '29'))
