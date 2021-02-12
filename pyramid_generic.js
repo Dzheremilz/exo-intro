@@ -1,5 +1,5 @@
 let pyramid = null                                        // string de concatenation
-let char = 'x'                                            // caractere affiche
+let char = 'M'                                            // caractere affiche
 let space = ' '
 let l = char                                              // stock le caractere
 let o = 14                                                // gere le nombre d'espace
