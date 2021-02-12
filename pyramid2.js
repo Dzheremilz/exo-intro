@@ -1,4 +1,4 @@
-let char = '0'
+let char = '*'
 console.log(`${char}              ${char}`)
 console.log(`${char}${char}            ${char}${char}`)
 console.log(`${char}${char}${char}          ${char}${char}${char}`)
