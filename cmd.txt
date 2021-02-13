@@ -11,17 +11,14 @@ ls : liste le répertoire courant
 cd : change directory, permet de se deplacer dans les répertoires
 pwd : print working directory, affiche le chemin d'accès vers le répertoire où on se situe
 mkdir : make directory, crée un répertoire
-nvm
-node
 rm : remove, supprime fichier et répertoire
 mv : move, déplacer ou renommer fichier et répertoire 
 cp : copy, copie fichier et répertoire
 apt : Advanced Packaging Tool, gestion de paquets, recherche et installation
 whoami : qui suis je
 history : historique des commandes
-
-
-
+nvm
+node
 
 sudo : Substitute User DO
 sudo permet d'utiliser une commande en tant que superutilisateur (root) ou tout autre utilisateur, il faudra l'utilise pour toute action lié au logiciel : installation/desinstallation/mise à jour
