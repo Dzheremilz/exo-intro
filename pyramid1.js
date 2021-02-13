@@ -6,7 +6,7 @@ for (let counter = 0; counter < 8; counter++) {
 }
 
 // with repeat
-let p = 16                       // taille pyramid
+let p = 22                       // taille pyramid
 for (let i = 1; i <= p; i++) {
   console.log(char.repeat(i))
 }
