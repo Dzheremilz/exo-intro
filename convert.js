@@ -5,7 +5,7 @@ let sum = nb1 + nb2
 console.log(sum)
 
 let nb3 = 10
-let nb4 = Number('8')
+let nb4 = Number('8') // argument converti en nombre
 sum = nb3 + nb4
 console.log(sum)
 
